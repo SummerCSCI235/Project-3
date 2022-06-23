@@ -72,8 +72,6 @@ Define and implement the abstract class `Shape`, which contains the following me
 ```
 
 **Note:** 
-* `reflect()` takes the parameter `'x'` or `'y'`.
-    &nbsp;
 
 * `getSurfaceArea()` uses the canonical formulae for surface area given each respective shape.
     &nbsp;
